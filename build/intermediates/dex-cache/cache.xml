@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\update-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6a0089cb9e710efdf13850156e61c517cfff804">
+        <dex dex="C:\Users\YFPHILPS\Desktop\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d469c65252ed7caac90f9519d15d48a1eeee8175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\Desktop\update-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\YFPHILPS\Desktop\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15da081949ba00af6c60cddbc423fb1956587261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5d23793df1e17be9a5ca6b9f2046ce27b563060">
+        <dex dex="C:\Users\YFPHILPS\Desktop\update-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_346195770b0407a9147dd957d52f118cc7eb0139\classes.dex" />
+    </item>
+
+</items>

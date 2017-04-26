@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\fd296fb9dd09db2f08d24e067e464719ebbabf0f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\fd296fb9dd09db2f08d24e067e464719ebbabf0f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\fd296fb9dd09db2f08d24e067e464719ebbabf0f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\YFPHILPS\\.android\\build-cache\\fd296fb9dd09db2f08d24e067e464719ebbabf0f\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

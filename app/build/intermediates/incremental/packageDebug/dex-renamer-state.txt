@@ -1,0 +1,7 @@
+#Wed Apr 26 14:22:31 CST 2017
+base.0=C\:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d469c65252ed7caac90f9519d15d48a1eeee8175
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15da081949ba00af6c60cddbc423fb1956587261\\classes.dex
+base.1=C\:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15da081949ba00af6c60cddbc423fb1956587261
+file.0=C\:\\Users\\YFPHILPS\\Desktop\\update-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d469c65252ed7caac90f9519d15d48a1eeee8175\\classes.dex

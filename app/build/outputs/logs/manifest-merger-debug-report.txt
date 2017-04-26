@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:2:11-36
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:17:5-83
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:18:22-82
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:22:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:23:22-68
+application
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:26:5-41:19
+MERGED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support:gridlayout-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.0] C:\Users\YFPHILPS\.android\build-cache\3d61798c5bf0b31a52319212208262a408fa4266\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\fd296fb9dd09db2f08d24e067e464719ebbabf0f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\b6ebb5bae2a5f77fd7f4b3cec47c51423aea08e0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\4de834d0ab6913ec42595d34443334b5f274e619\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] C:\Users\YFPHILPS\.android\build-cache\32c3cfa44791873a9a174f06f1a735f19dc2fade\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a75d798f65b5baa929cb807481ad24a8ae53a349\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\YFPHILPS\.android\build-cache\338f6eee3881989ee4771e4360c944fd5fd4d38a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\364ed40d0015ca70489a45b4c1ab312caed2986d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a9edab05bed46cbeb1314380705ac7a69fd56888\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a66b81f42fa574b301ea0484fac0d3992dffaea6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\cc2ccc3f98084b7d9327b57680c5b71bc4bdd110\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:29:9-41
+	android:supportsRtl
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:30:9-35
+	android:allowBackup
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:28:9-43
+	android:theme
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:31:9-40
+activity#ezy.demo.update.MainActivity
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:32:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:gridlayout-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.0] C:\Users\YFPHILPS\.android\build-cache\3d61798c5bf0b31a52319212208262a408fa4266\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\fd296fb9dd09db2f08d24e067e464719ebbabf0f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\b6ebb5bae2a5f77fd7f4b3cec47c51423aea08e0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\4de834d0ab6913ec42595d34443334b5f274e619\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\7c97637989b8c4878dbcf584474dc857b32c4848\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] C:\Users\YFPHILPS\.android\build-cache\32c3cfa44791873a9a174f06f1a735f19dc2fade\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a75d798f65b5baa929cb807481ad24a8ae53a349\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\YFPHILPS\.android\build-cache\338f6eee3881989ee4771e4360c944fd5fd4d38a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\364ed40d0015ca70489a45b4c1ab312caed2986d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a9edab05bed46cbeb1314380705ac7a69fd56888\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a66b81f42fa574b301ea0484fac0d3992dffaea6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\cc2ccc3f98084b7d9327b57680c5b71bc4bdd110\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] C:\Users\YFPHILPS\.android\build-cache\3d61798c5bf0b31a52319212208262a408fa4266\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\YFPHILPS\Desktop\update-master\app\src\main\AndroidManifest.xml
+provider#ezy.boost.update.UpdateFileProvider
+ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:14:13-70
+	android:grantUriPermissions
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:17:13-19:61
+	android:resource
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:19:17-58
+	android:name
+		ADDED from [com.github.czy1121:library:1.1.0] C:\Users\YFPHILPS\Desktop\update-master\library\build\intermediates\bundles\default\AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:gridlayout-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.0] C:\Users\YFPHILPS\.android\build-cache\3d61798c5bf0b31a52319212208262a408fa4266\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\fd296fb9dd09db2f08d24e067e464719ebbabf0f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\b6ebb5bae2a5f77fd7f4b3cec47c51423aea08e0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\YFPHILPS\.android\build-cache\4de834d0ab6913ec42595d34443334b5f274e619\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\7c97637989b8c4878dbcf584474dc857b32c4848\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] C:\Users\YFPHILPS\.android\build-cache\32c3cfa44791873a9a174f06f1a735f19dc2fade\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a75d798f65b5baa929cb807481ad24a8ae53a349\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\YFPHILPS\.android\build-cache\338f6eee3881989ee4771e4360c944fd5fd4d38a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\364ed40d0015ca70489a45b4c1ab312caed2986d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a9edab05bed46cbeb1314380705ac7a69fd56888\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\YFPHILPS\.android\build-cache\a66b81f42fa574b301ea0484fac0d3992dffaea6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\YFPHILPS\.android\build-cache\cc2ccc3f98084b7d9327b57680c5b71bc4bdd110\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:gridlayout-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:gridlayout-v7:25.3.0] C:\Users\YFPHILPS\.android\build-cache\be7a2b48aec813f1dea6ce29835836f8b8e1df77\output\AndroidManifest.xml:23:9-47

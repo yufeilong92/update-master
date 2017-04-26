@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ezy.boost.update.test" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for ezy.boost.update.test"
+        android:targetPackage="ezy.boost.update.test" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+
+        <provider
+            android:name="ezy.boost.update.UpdateFileProvider"
+            android:authorities="ezy.boost.update.test.updatefileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/update_cache_path" />
+        </provider>
+    </application>
+
+</manifest>
